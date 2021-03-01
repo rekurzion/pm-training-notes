@@ -23,7 +23,7 @@
 
 -   The Charter
 
-##### Benefits of the Project Charter (think constitution)
+#### Benefits of the Project Charter (think constitution)
 
 -   formally initiates the project
 
@@ -33,7 +33,7 @@
 
 -   deliverables
 
-##### What is in the Charter?
+#### What is in the Charter?
 
 -   Project purpose/justification
 
@@ -103,7 +103,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 **Creating the deliverables** by providing overall **management of project work**
 
-##### How?
+#### How?
 
 -   accomplish objectives
 
@@ -127,7 +127,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 -   manage stakeholder expectations
 
-##### Tools & Techniques
+#### Tools & Techniques
 
 -   expert judgment
 
@@ -153,7 +153,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 ## Monitor & Control Project Work
 
-##### Monitoring project work
+#### Monitoring project work
 
 -   collect, measure, distribute performance info
 
@@ -165,7 +165,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 -   update cost, schedule
 
-##### Controlling project work
+#### Controlling project work
 
 -   corrective, preventative actions
 
