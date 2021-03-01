@@ -7,7 +7,7 @@
  *― Steve Jobs* 
 
 *“Excellent!" I cried. "Elementary," said he.”* 
- ― Arthur Conan Doyle, The Complete Sherlock Holmes*
+ *― Arthur Conan Doyle, The Complete Sherlock Holmes*
 
 ## What is a Project
 
