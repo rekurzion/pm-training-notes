@@ -2,9 +2,9 @@
 
 *Proverbs 15:22 - Plans fail for lack of counsel, but with many advisers they succeed*
 
-*Proverbs 24:27 - Put your outdoor work in order and get your fields ready*
+*Proverbs 24:27 - Put your outdoor work in order and get your fields ready. After that, build your house.*
 
-*Proverbs 21:5 - The plans of the diligent lead to profit as surely as haste leads to poverty. After that, build your house.*
+*Proverbs 21:5 - The plans of the diligent lead to profit as surely as haste leads to poverty.* 
 
 > Notice the importance of
 >
