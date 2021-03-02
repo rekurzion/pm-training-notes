@@ -1,5 +1,11 @@
 # Project Charter and Project Management Plan
 
+*Proverbs 15:22 - Plans fail for lack of counsel, but with many advisers they succeed*
+
+*Proverbs 24:27 - Put your outdoor work in order and get your fields ready*
+
+*Proverbs 21:5 - The plans of the diligent lead to profit as surely as haste leads to poverty. After that, build your house.*
+
 > Notice the importance of
 >
 > Enterprise Environmental Factors (EFFs) and Organizational Process Assets (OPAs)
@@ -23,7 +29,7 @@
 
 -   The Charter
 
-#### Benefits of the Project Charter (think constitution)
+### Benefits of the Project Charter (think constitution)
 
 -   formally initiates the project
 
@@ -33,7 +39,7 @@
 
 -   deliverables
 
-#### What is in the Charter?
+### What is in the Charter?
 
 -   Project purpose/justification
 
@@ -103,7 +109,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 **Creating the deliverables** by providing overall **management of project work**
 
-#### How?
+### How?
 
 -   accomplish objectives
 
@@ -127,7 +133,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 -   manage stakeholder expectations
 
-#### Tools & Techniques
+### Tools & Techniques
 
 -   expert judgment
 
@@ -153,7 +159,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 ## Monitor & Control Project Work
 
-#### Monitoring project work
+### Monitoring project work
 
 -   collect, measure, distribute performance info
 
@@ -165,7 +171,7 @@ Describes **HOW** a project will be executed, controlled and monitored
 
 -   update cost, schedule
 
-#### Controlling project work
+### Controlling project work
 
 -   corrective, preventative actions
 
