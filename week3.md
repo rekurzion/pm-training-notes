@@ -1,4 +1,4 @@
-# Project Charter and Project Management Plan
+# Week 3 - Project Charter and Project Management Plan
 
 *Proverbs 15:22 - Plans fail for lack of counsel, but with many advisers they succeed*
 
